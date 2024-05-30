@@ -7,6 +7,7 @@ project(aesd-assignments)
 
 set(CMAKE_C_FLAGS "-pthread")
 
+
 set(AUTOTEST_SOURCES
     test/assignment1/Test_hello.c
     test/assignment1/Test_assignment_validate.c
